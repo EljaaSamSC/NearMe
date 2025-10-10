@@ -176,7 +176,7 @@ vels.html:
 ```
 
 ## OUTPUT
-![alt text](../myproject/mapapp/static/map.jpeg)
+![alt text](../myproject/mapapp/static/1.jpeg)
 ![alt text](../myproject/mapapp/static/22.png)
 
 ![alt text](../myproject/mapapp/static/33.png)
