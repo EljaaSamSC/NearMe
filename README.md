@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 11/10/2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -176,15 +176,12 @@ vels.html:
 ```
 
 ## OUTPUT
-![alt text](../myproject/mapapp/static/1.jpeg)
-![alt text](../myproject/mapapp/static/22.png)
-
-![alt text](../myproject/mapapp/static/33.png)
-![alt text](../myproject/mapapp/static/44.png)
-![alt text](../myproject/mapapp/static/55.png)
-
-
-![alt text](../myproject/mapapp/static/11.png)
+![alt text](1.png)
+![alt text](11.png)
+![alt text](33.png)
+![alt text](22.png)
+![alt text](44.png)
+![alt text](55.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
